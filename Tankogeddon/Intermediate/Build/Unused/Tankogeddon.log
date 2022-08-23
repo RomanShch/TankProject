@@ -1,0 +1,11 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\TankProject).
+  Building TankogeddonEditor...
+  Using Visual Studio 2022 14.32.31329 toolchain (D:\VISUAL STUDIO 2022\VC\Tools\MSVC\14.32.31326) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 6 processes...
+    [1/3] UE4Editor-Tankogeddon-0033.lib
+       Создается библиотека D:\TankProject\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0033.lib и объект D:\TankProject\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0033.exp
+    [2/3] UE4Editor-Tankogeddon-0033.dll
+       Создается библиотека D:\TankProject\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0033.suppressed.lib и объект D:\TankProject\Tankogeddon\Intermediate\Build\Win64\UE4Editor\Development\Tankogeddon\UE4Editor-Tankogeddon-0033.suppressed.exp
+    [3/3] TankogeddonEditor.target
+  Total time in Parallel executor: 1,08 seconds
+  Total execution time: 2,19 seconds
